@@ -16,6 +16,7 @@ export default {
 </script>
 
 <style>
+
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 
 body {
@@ -33,4 +34,5 @@ body, html {
 #app {
     width: 50%;
 }
+
 </style>
